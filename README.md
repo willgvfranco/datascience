@@ -1,0 +1,1 @@
+Compilado de scripts com explicações em PT-BR para utilização de estatística em jupyter notebooks
